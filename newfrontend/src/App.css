@@ -1,0 +1,33 @@
+/* App.css */
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f5f5f5;
+  margin: 0;
+  padding: 0;
+}
+
+div {
+  text-align: center;
+  margin-top: 50px;
+}
+
+h1 {
+  color: #333;
+  margin-bottom: 30px;
+}
+
+a {
+  display: inline-block;
+  margin: 10px 0;
+  padding: 10px 20px;
+  text-decoration: none;
+  color: white;
+  background-color: #007bff;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+a:hover {
+  background-color: #0056b3;
+}
